@@ -45,12 +45,12 @@
         <property name="siga.recaptcha.key" value="6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI"/>
         <property name="siga.recaptcha.pwd" value="6LeIxAcTAAAAAGG-vFI1TnRWxMZNFuojJ4WifJWe"/>
 
-        <property name="siga.cabecalho.titulo" value="Justiça Federal"/>
+        <property name="siga.cabecalho.titulo" value="Municipio Ipixuna"/>
         <property name="siga.cabecalho.logo" value="/siga/imagens/logo-trf2-38px.png"/>
 
         <property name="sigaex.modelos.cabecalho.brasao" value="contextpath/imagens/brasaoColoridoTRF2.png"/>
-        <property name="sigaex.modelos.cabecalho.titulo" value="PODER JUDICIÁRIO"/>
-        <property name="sigaex.modelos.cabecalho.subtitulo" value="JUSTIÇA FEDERAL"/>
+        <property name="sigaex.modelos.cabecalho.titulo" value="PODER EXECUTIVO"/>
+        <property name="sigaex.modelos.cabecalho.subtitulo" value="PREFEITURA MUNICIPAL DE IPIXUNA"/>
 
         <property name="siga.relat.brasao" value="brasao.png"/>
         <property name="siga.relat.titulo" value="PODER JUDICIÁRIO"/>

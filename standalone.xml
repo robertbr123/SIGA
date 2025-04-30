@@ -56,7 +56,7 @@
         <property name="siga.relat.titulo" value="PODER JUDICIÁRIO"/>
         <property name="siga.relat.subtitulo" value="JUSTIÇA FEDERAL"/>
 
-        <property name="sigaex.carimbo.texto.superior" value="Justiça Federal"/>
+        <property name="sigaex.carimbo.texto.superior" value="Municipio de Ipixuna"/>
 
         <property name="sigaex.redis.database" value="1"/>
         <property name="sigaex.redis.master.host" value="redisserver"/>

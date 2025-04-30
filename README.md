@@ -20,7 +20,7 @@ Faça o checkout deste repositório em um diretório qualquer:
 
 ```
 $ cd /var/lib
-$ git clone https://github.com/projeto-siga/siga-docker.git siga-docker
+$ git clone https://github.com/robertbr123/SIGA.git siga-docker
 $ cd siga-docker
 ```
 
